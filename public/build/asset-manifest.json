@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bda03be0.css",
+    "main.js": "/static/js/main.36d80063.js",
+    "static/media/antiguaBarbuda_logo.png": "/static/media/antiguaBarbuda_logo.4c4cb1fda12769f0f162.png",
+    "static/media/pinneapple_final.jpg": "/static/media/pinneapple_final.1ae49ce142b6b4becc77.jpg",
+    "static/media/verandah_final.jpg": "/static/media/verandah_final.3c0873cd4edc7f2c45c3.jpg",
+    "static/media/background_img.jpg": "/static/media/background_img.2248af68e64330856c2c.jpg",
+    "static/media/st_james_final.jpg": "/static/media/st_james_final.a321df3ad278570dd058.jpg",
+    "static/media/abguru_logo.png": "/static/media/abguru_logo.b21db6f67dff5b2a7b1b.png",
+    "index.html": "/index.html",
+    "main.bda03be0.css.map": "/static/css/main.bda03be0.css.map",
+    "main.36d80063.js.map": "/static/js/main.36d80063.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bda03be0.css",
+    "static/js/main.36d80063.js"
+  ]
+}
